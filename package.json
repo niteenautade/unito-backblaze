@@ -1,14 +1,22 @@
 {
   "name": "unito-backblaze",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Upload to backblaze",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://niteenautade@github.com/niteenautade/unito-backblaze.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niteenautade/unito-backblaze/issues"
+  },
+  "homepage": "https://github.com/niteenautade/unito-backblaze#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
+  "keywords": [],
   "dependencies": {
     "axios": "^0.18.0"
   }
